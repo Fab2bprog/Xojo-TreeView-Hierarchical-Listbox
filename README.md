@@ -3,7 +3,7 @@
 A reusable and educational Xojo module demonstrating how to implement a hierarchical Listbox (TreeView-style structure). This project is both a learning tool and a ready-to-use component that you can easily integrate into your own Xojo desktop applications.
 
 <p align="center">
-  <img src="https://github.com/Fab2bprog/Xojo-TreeView-Hierarchical-Listbox/blob/main/pictures/screenshot.png" width="650" title="Xojo-TreeView-Hierarchical-Listbox">
+  <img src="https://github.com/Fab2bprog/Xojo-TreeView-Hierarchical-Listbox/blob/main/screenshot.png" width="650" title="Xojo-TreeView-Hierarchical-Listbox">
  </p>
 
 
